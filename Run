@@ -1,0 +1,10 @@
+python athlete_workload_risk.py
+
+Then verify:
+
+athlete_workload_data.csv
+athlete_workload_risk.py
+workload_risk_results.csv
+weekly_training_load.png
+workload_risk_dashboard.png
+README.md
