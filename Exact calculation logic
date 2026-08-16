@@ -1,0 +1,21 @@
+The first calculation is:
+Training Load = Duration × sRPE
+
+For example:
+60 minutes × RPE 5 = 300 AU
+So each session becomes a quantitative workload value.
+
+Weekly load
+Weekly Load = Sum of all session loads in that week
+
+Training monotony
+Monotony =
+Mean Daily Load / Standard Deviation of Daily Load
+Training strain
+Strain =
+Weekly Load × Training Monotony
+Week-to-week change
+Load Change % =
+(Current Week Load - Previous Week Load)
+/
+Previous Week Load × 100
